@@ -1,0 +1,15 @@
+{
+  "fixture_id": "P13-C",
+  "configuration_state": "COMPLETE",
+  "visibility": "public",
+  "has_issues": true,
+  "actions": {
+    "enabled": true,
+    "allowed_actions": "all",
+    "sha_pinning_required": false
+  },
+  "workflow_state": "active",
+  "fork_approval": {
+    "approval_policy": "first_time_contributors_new_to_github"
+  }
+}
