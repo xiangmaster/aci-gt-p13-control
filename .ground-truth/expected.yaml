@@ -1,0 +1,10 @@
+id: P13-C
+repository: aci-gt-p13-control
+visibility: public
+stage: P1
+rule: P1.3
+kind: control
+atomic_variable: "无 Actor/Event restriction，fork policy 放行"
+expected_status: REACHABLE
+setup: AUTO_REST
+configuration_state: COMPLETE
